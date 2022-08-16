@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Santi-ib
-- 👀 I’m interested in 3D printing y hardware and software developing for prosthetics and medical equipment 
+- 👀 I’m interested in 3D printing and hardware & software developing for prosthetics and medical equipment 
 - 🌱 I’m currently studying Biomedical Ingeneering
 
 <!---
